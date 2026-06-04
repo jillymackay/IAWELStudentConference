@@ -1,0 +1,28 @@
+---
+title: "International Animal Welfare Ethics and Law MSc Student Conference"
+about:
+  id: hero-heading
+  template: trestles
+  image: /assets/logos/logobw.png
+  image-shape: round
+  links:
+    - icon: graduation-cap
+      text: LinkedIn Page
+      href: https://www.linkedin.com/company/105939308
+    - icon: graduation-cap
+      text: MSc Webpage
+      href: https://study.ed.ac.uk/programmes/postgraduate-taught/788-international-animal-welfare-ethics-and-law-online-learning
+
+---
+
+
+
+:::{#hero-heading}
+This is the page for the [International Animal Welfare Ethics and Law MSc](https://study.ed.ac.uk/programmes/postgraduate-taught/788-international-animal-welfare-ethics-and-law-online-learning) Student Conference.
+
+International Animal Welfare Ethics and Law (or IAWEL) is the part-time distance learning MSc at the [Royal (Dick) School of Veterinary Studies](https://vet.ed.ac.uk/) at the [University of Edinburgh](https://www.ed.ac.uk/). We launched in 2012, and since then have awarded over 200 MSc students. While many of our dissertation students go on to publish their theses, we wanted a way to celebrate our students amazing achievements, and in 2026, we ran our first IAWEL Student Conference. 
+
+
+
+
+:::

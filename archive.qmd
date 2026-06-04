@@ -1,0 +1,12 @@
+---
+title: "All Conferences"
+description: "Links to all previous conference content here"
+listing:
+  contents: archive
+  sort: "date desc"
+  type: grid
+  categories: true
+  date-format: "medium"
+  filter-ui: true
+title-block-banner: true
+---

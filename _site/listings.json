@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/abstracts.html",
+    "items": [
+      "/abstracts/2014-brown/index.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/archive/2026/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/2026-conference/index.html"
+    ]
+  }
+]

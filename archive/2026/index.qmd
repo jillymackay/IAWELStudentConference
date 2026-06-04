@@ -1,0 +1,18 @@
+---
+title: "1st IAWEL Student Conference"
+date: '2026-06-01'
+categories: 
+  - 2026
+description: "Information about the First International Animal Welfare Ethics and Law Student Conference"
+image: featured.png
+---
+
+# The First IAWEL Student Conference
+We are excited to bring you the first IAWEL student conference in September 2026 as part of our welcome week activities. Our theme is Animal Welfare Connections and that is what we want to do, connect the animal welfare change makers of the future.
+
+
+## Abstracts
+
+[You can find a list of abstracts from this conference here](/abstracts.html#category=2026)
+
+[You can find a list of blog posts and news from this conference here](/blog.html#category=2026)

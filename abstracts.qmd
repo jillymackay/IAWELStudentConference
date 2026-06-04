@@ -1,0 +1,13 @@
+---
+title: "List of Abstracts"
+subtitle: "Archive of all previous abstracts"
+listing:
+  contents: abstracts
+  fields: [author, title, theme, supervisor, date]
+  sort: "date desc"
+  type: table
+  categories: true
+  date-format: "medium"
+  filter-ui: true
+title-block-banner: true
+---

@@ -1,0 +1,17 @@
+---
+title: "Understanding and application of learning theory in UK based equestrians"
+date: '2014-09-01'
+theme:
+    - equine welfare
+categories: historic
+author: [Sarah Brown]
+supervisor: [Melanie Connor]
+abstract: "Animal welfare science features interdisciplinary and collaborative working across fields, spanning behavioural ecology, psychology, veterinary sciences, economics, and fundamental biology. However, education research is not yet prevalent within the animal welfare literature. In a Web of Science topic search there were 188 papers which specifically discussed or explored how to teach animal welfare from 1978 to 2017. Of these, only 34% (n = 61) specifically focused on instructional design or pedagogical research, and these were predominantly within veterinary education (57%). Despite this, the literature is in broad agreement that animal welfare education is an important topic that should be donewell. Within the UK, therewere a possible 586 animal-related courses within Universities College Admissions Service database for potential students to choose from, highlighting the significance of robust and considered educational practice. The current gaps identified in the literature were discussion of hidden curriculums outside of veterinary degrees, animal-centered education, the blueprinting of assessment, and authentic assessment. Therefore, this review proposes that animal welfare scientists interested in education consider discipline based educational research (DBER) practices, and engagemore fully with the educational research literature. A key component of DBER is the recognition that specialist knowledge needs to be taught by specialists, and so it is important that animal welfare scientists begin to access educational research too"
+---
+
+
+
+This project was later published as:
+
+
+Brown, S., & Connor, M. (2017). Understanding and application of learning theory in UK based equestrians. Anthrozoös, 30(4), 565-579. [https://doi.org/10.1080/08927936.2017.1370216](https://doi.org/10.1080/08927936.2017.1370216). [Download bibtex citation](cite.bib)

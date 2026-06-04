@@ -1,0 +1,61 @@
+project:
+  type: website
+
+website:
+  title: "IAWEL Student Conference"
+  favicon: assets/logos/logobw.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: abstracts.qmd
+        text: Abstracts
+      - href: blog.qmd
+        text: News
+      - href: archive.qmd
+        text: Conference Archive
+  cookie-consent: true
+  twitter-card:
+    image: assets/logos/logobw.png
+    card-style: summary_large_image
+    
+
+format:
+  html:
+    theme: iawelconf.scss
+    toc: true
+
+
+
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: author
+  theme: theme
+  supervisor: supervisor
+  
+  
+  
+permalinks:
+  abstracts: '/abstracts/:slug/'
+  tags: '/tag/:slug/'
+  categories: '/category/:slug/'
+  blog: '/blog/:slug/'
+  theme: '/theme/:slug/'
+  
+
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '15:04'
+  address_format: en-gb
+  
+  
+  
+# Freeze computations for Quarto
+execute:
+  freeze: auto
+

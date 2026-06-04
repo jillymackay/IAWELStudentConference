@@ -1,0 +1,12 @@
+---
+title: "IAWEL Student Conference Updates"
+subtitle: "The IAWEL Student Conference blog, featuring updates and information from staff and students."
+listing:
+  contents: blog
+  fields: [date, title, reading-time, description, image]
+  sort: "date desc"
+  type: default
+  categories: true
+  date-format: "medium"
+title-block-banner: true
+---
