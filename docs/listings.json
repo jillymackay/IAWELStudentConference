@@ -1,8 +1,8 @@
 [
   {
-    "listing": "/abstracts.html",
+    "listing": "/blog.html",
     "items": [
-      "/abstracts/2014-brown/index.html"
+      "/blog/2026-conference/index.html"
     ]
   },
   {
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/abstracts.html",
     "items": [
-      "/blog/2026-conference/index.html"
+      "/abstracts/2014-brown/index.html"
     ]
   }
 ]
